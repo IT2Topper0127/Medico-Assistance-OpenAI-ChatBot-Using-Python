@@ -4,7 +4,6 @@ from textbase import models
 import os
 from typing import List
 
-
 # Load your OpenAI API key
 models.OpenAI.api_key = "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" #api 
 # or from environment variable:
